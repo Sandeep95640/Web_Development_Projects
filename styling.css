@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    color: #ffffff;
+    background-color: #000000;
+}
+#nav_bar{
+    display: flex;
+    justify-content: space-between;
+}
+.first{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 5px;
+}
+.third{
+    display: flex;
+    justify-content: space-evenly;
+}
+.third.unlimited{
+    display: flex;
+    justify-content: space-evenly;
+}
+.f{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.varieties{
+    display: flex;
+    justify-content: space-evenly;
+}
+.themes{
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    font: bold;
+    padding-bottom:10px;
+}
+.disney{
+    display: flex;
+    justify-content: space-evenly;
+}
+#images{
+    display: flex;
+    justify-content: space-evenly;
+}
+.imagese{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+#other{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 10px;
+}
+.insider{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Endgame{
+    text-align: center;
+}
+#end{
+    display: flex;
+    justify-content: space-evenly;
+}
+#finally{
+    display: flex;
+    justify-content: space-evenly;
+}
