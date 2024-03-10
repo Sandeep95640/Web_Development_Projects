@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #000000;
+    color: #ffffff;
+}
+#nav_bar{
+    padding-top: 20px;
+    display: flex;
+    justify-content:space-between;
+}
+#inside_nav{
+    display: flex;
+    justify-content: space-around;
+}
+#desc{
+    display: flex;
+    justify-content: space-between;
+}
+#connect{
+    display: flex;
+    justify-content: space-evenly;
+}
+#journey{
+    display: flex;
+    justify-content: space-evenly;
+}
+#qualifications{
+    display: flex;
+    justify-content: space-evenly;
+}
+.quali{
+    border: 1px solid #ffffff;
+    padding: 10px 10px;
+    border-radius: 4px;
+}
+#skills{
+    display: flex;
+    justify-content: space-evenly;
+}
+.kill{
+    border: 1px solid #ffffff;
+    border-radius: 4px ;
+    padding: 8px 8px;
+    font-size: 25px;
+}
+#techno{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#copyright{
+    display: flex;
+    justify-content: space-evenly;
+}
+.copy{
+    font-size: 18px;
+}
