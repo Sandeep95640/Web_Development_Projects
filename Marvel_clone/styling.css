@@ -5,6 +5,7 @@
 body{
     color: #ffffff;
     background-color: #000000;
+    border: 1px solid grey;
 }
 #nav_bar{
     display: flex;
