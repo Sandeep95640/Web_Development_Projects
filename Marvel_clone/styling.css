@@ -82,14 +82,5 @@ body{
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
-img {
-    max-width: 100%;
-    width: auto;
-}
-@media only screen and (max-width: 600px) {
-    /* Adjustments for smaller screens */
-    body {
-        font-size: 14px; /* Decrease font size for better readability on smaller screens */
-    }
-}
+
 
