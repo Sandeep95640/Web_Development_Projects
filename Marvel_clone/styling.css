@@ -82,7 +82,3 @@ body{
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
-img {
-    max-width: 100%;
-    width: auto;
-}
