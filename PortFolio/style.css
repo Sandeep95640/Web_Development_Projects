@@ -1,3 +1,4 @@
+
 *{
     margin: 0px;
     padding: 0px;
@@ -5,9 +6,9 @@
 body{
     background-color: #000000;
     color: #ffffff;
+    border: 5px solid green;
 }
 #nav_bar{
-    padding-top: 20px;
     display: flex;
     justify-content:space-between;
 }
@@ -18,10 +19,12 @@ body{
 #desc{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 #connect{
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 #journey{
     display: flex;
@@ -30,11 +33,12 @@ body{
 #qualifications{
     display: flex;
     justify-content: space-evenly;
+    text-align: center;
 }
 .quali{
     border: 1px solid #ffffff;
-    padding: 10px 10px;
     border-radius: 4px;
+    padding: 10px;
 }
 #skills{
     display: flex;
@@ -43,13 +47,13 @@ body{
 .kill{
     border: 1px solid #ffffff;
     border-radius: 4px ;
-    padding: 8px 8px;
     font-size: 25px;
 }
 #techno{
     display:flex;
     flex-direction: row;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 #copyright{
     display: flex;
